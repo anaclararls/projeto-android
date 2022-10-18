@@ -33,6 +33,7 @@ header {
 header p {
     color: rgb(221, 221, 221);
     font-size: 14px;
+    padding-bottom: 30px;
 }
 
 #titulosite {
@@ -55,6 +56,7 @@ nav {
 nav > a {
     padding: 10px;
     transition-duration: 0.5s;
+    color: white;
 }
 
 nav a:link {
@@ -203,7 +205,6 @@ main a {
     text-decoration: none;
     font-weight: bold;
     color: var(--cor5);
-    background-color: var(--cor0);
     padding: 2px;
 }
 
